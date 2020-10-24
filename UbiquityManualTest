@@ -1,0 +1,9 @@
+Was able to log in to the website fine with the login details provided.
+
+Home page is branded with Ubiquity, but it is not on the top left hand side of the page, where as all the other pages have the logo located there.
+Text on home page says "Welcome to the Ubiquity Tester admin page." instead of "Welcome to the Ubiquity Tester Test admin page.".
+
+Edit Profile button takes me to the edit profile page.
+
+Edit profile pages allows me to put in a new email, mobile, date of birth and password, but not the username.
+Uppon pressing submit the information doesn't get updated. Leaving and returning back to the edit profile page resets all the fields back to their original text.
